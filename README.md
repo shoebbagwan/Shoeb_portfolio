@@ -41,26 +41,3 @@ A dark, cinematic single-page portfolio covering background, skills, experience,
 | Animation   | Framer Motion              |
 | Icons       | lucide-react + custom SVGs |
 
-## Getting Started
-
-Requires Node.js 18+.
-
-```bash
-git clone https://github.com/shoebbagwan/Shoeb_portfolio.git
-cd Shoeb_portfolio
-npm install
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) — the site hot-reloads on save.
-
-## Build & Deploy
-
-```bash
-npm run build
-npm run start
-```
-
-**Deploying:** the easiest path is [Vercel](https://vercel.com) — import this repo, no configuration needed. It also runs on any host that supports Node.js.
-
-## Project Structure
