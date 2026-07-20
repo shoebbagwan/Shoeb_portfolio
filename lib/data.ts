@@ -12,7 +12,7 @@ export const profile = {
   tagline:
     "I build AI systems and ship them as real, working products.",
   summary:
-    "Final-year AI & ML engineer who ships complete, working systems rather than notebooks. My work spans Retrieval-Augmented Generation, audio signal processing, and full-stack ML products — built end to end, from data pipeline to deployed interface. AWS Academy certified in Cloud Foundations and Data Engineering, with active open-source contributions.",
+    "B.E. Computer Science (AI & ML) graduate, Class of 2026. I build AI-powered applications focused on solving real-world problems — my work spans RAG systems, Speech Emotion Recognition, and ML-based recommendation engines, built end to end and shipped as working products, not just notebooks. I also contribute to open-source projects on the side.",
 };
 
 export const skillGroups = [
