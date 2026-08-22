@@ -140,7 +140,7 @@ export const education = {
   degree: "Bachelor of Engineering, Computer Science (AI & ML)",
   school: "Theem College of Engineering, Mumbai",
   period: "2022 — 2026",
-  score: "CGPA 6.6 / 10",
+  score: "CGPA 6.75 / 10",
   coursework: [
     "Data Structures",
     "Algorithms",
