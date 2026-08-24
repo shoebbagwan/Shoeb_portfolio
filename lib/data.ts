@@ -8,7 +8,7 @@ export const profile = {
   githubHandle: "shoebbagwan",
   linkedin: "https://www.linkedin.com/in/shoeb-bagwan",
   linkedinHandle: "shoeb-bagwan",
-  resumeFile: "/shoeb resume.pdf",
+  resumeFile: "/shoebresume.pdf",
   tagline:
     "I build AI systems and ship them as real, working products.",
   summary:
