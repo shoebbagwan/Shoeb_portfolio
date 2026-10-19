@@ -1,6 +1,6 @@
 # Shoeb Bagwan — Portfolio
 
-> Personal developer portfolio — built to be fast, clean, and readable by a recruiter in under a minute.
+> Personal developer portfolio
 
 ![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)
@@ -20,7 +20,7 @@
 
 ## Overview
 
-A dark, cinematic single-page portfolio covering background, skills, experience, projects, open-source contributions, education, and contact info — all pulled from one editable content file so it's easy to keep current.
+A dark, cinematic single-page portfolio covering background, skills, experience, projects, open-source contributions, education and contact info — all pulled from one editable content file so it's easy to keep current.
 
 ## Features
 
