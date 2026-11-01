@@ -25,27 +25,20 @@ export const skillGroups = [
     skills: [
       "Machine Learning",
       "Deep Learning",
-      "ANNs",
       "Generative AI",
       "NLP",
       "RAG",
       "Scikit-learn",
       "LangChain",
-      "Gemini API",
-      "FAISS",
     ],
   },
   {
-    label: "Frameworks & Libraries",
-    skills: ["FastAPI", "React", "Node.js", "Pandas", "Librosa", "Streamlit", "Leaflet.js"],
+    label: "Backend & Frameworks",
+    skills: ["FastAPI", "React", "Node.js", "Git"],
   },
   {
     label: "Databases & Cloud",
     skills: ["PostgreSQL", "SQLite", "AWS", "REST APIs"],
-  },
-  {
-    label: "Tools",
-    skills: ["Git", "GitHub", "VS Code"],
   },
 ];
 
