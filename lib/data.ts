@@ -50,7 +50,7 @@ export const experience = [
     period: "Dec 2025 — Jan 2026",
     points: [
       "Built an Artificial Neural Network (ANN) classifier in Python to identify Iris flower species from sepal and petal measurements, applying PCA for dimensionality reduction and achieving high classification accuracy.",
-      "Worked the full ML lifecycle hands-on — data preprocessing, feature scaling, model training, and evaluation.",
+      "Worked the full ML lifecycle hands-on — data preprocessing, feature scaling, model training and evaluation.",
     ],
   },
 ];
